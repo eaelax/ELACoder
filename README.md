@@ -1,4 +1,6 @@
-![github](https://user-images.githubusercontent.com/80136524/148685470-6447b393-ceda-420c-aeab-c5acd08ae504.png)
+![about-cover-Recovered](https://user-images.githubusercontent.com/80136524/148690782-a10abb2e-8c62-462f-8d83-febba9ed2795.png)
+
+
 
 # Hi, Welcome to my GitHub profile!
 I'm Adil El Abid, a **Front End** developer from *Tetouan City, Morocco*. I'm a self-taught front end developer, I have 1 year of experience in web design, I'm a team player, a fast learner, and a hard worker. I enjoy turning complex ugly sites into simple, beautiful and intuitive design.
