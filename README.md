@@ -1,6 +1,5 @@
 ![about-cover-Recovered](https://user-images.githubusercontent.com/80136524/148690782-a10abb2e-8c62-462f-8d83-febba9ed2795.png)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF4D2A&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h4>| ABOUT ME</h4>
@@ -29,4 +28,7 @@ I enjoy turning complex ugly sites into simple, beautiful and intuitive design.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eaelax&theme=github_dark&show_icons=true">
 </p>
