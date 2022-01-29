@@ -1,6 +1,6 @@
 ![about-cover-Recovered](https://user-images.githubusercontent.com/80136524/148690782-a10abb2e-8c62-462f-8d83-febba9ed2795.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF4D2A&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2316E9BF&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h4>| ABOUT ME</h4>
 I'm Adil El Abid, a **Front End** developer from *Tetouan City, Morocco*. I'm a self-taught front end developer, I have 1 year of experience in web design, I'm a team player, a fast learner, and a hard worker. 
