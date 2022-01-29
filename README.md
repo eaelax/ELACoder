@@ -1,4 +1,4 @@
-![about-cover-Recovered](https://user-images.githubusercontent.com/80136524/148690782-a10abb2e-8c62-462f-8d83-febba9ed2795.png)
+![148690782-a10abb2e-8c62-462f-8d83-febba9ed2795](https://user-images.githubusercontent.com/80136524/151661871-1f581a84-f028-4d87-bdff-df3a4bb60539.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2316E9BF&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
