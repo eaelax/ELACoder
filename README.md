@@ -11,7 +11,7 @@ I enjoy turning complex ugly sites into simple, beautiful and intuitive design.
 ***
 
 - 🛠️ I’m currently working on my Portfolio.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning.
 - 💻 I’m looking to collaborate on Front end web development.
 - 📂 I’m looking to contribute more to Open Source Projects.
 - 📫 How to reach me: dev.elabidadil@gmail.com.
@@ -20,6 +20,6 @@ I enjoy turning complex ugly sites into simple, beautiful and intuitive design.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,vim,wordpress,md,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,wordpress,git,vscode,vim,figma,ps" />
   </a>
 </p>
