@@ -20,6 +20,6 @@ I enjoy turning complex ugly sites into simple, beautiful and intuitive design.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,wordpress,git,vscode,vim,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,git,figma" />
   </a>
 </p>
